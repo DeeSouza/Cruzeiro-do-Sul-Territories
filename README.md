@@ -15,9 +15,9 @@ Cruzeiro-do-Sul-Territories/
 - [README.md](./README.md) — This file.
 
 - Centro
-  - [1](./Centro/1.pdf)
-  - [2](./Centro/2.pdf)
-  - [3](./Centro/3.pdf)
-  - [4](./Centro/4.pdf)
-  - [5](./Centro/5.pdf)
-  - [6](./Centro/6.pdf)
+  - [1](./Centro/Centro-1.pdf)
+  - [2](./Centro/Centro-2.pdf)
+  - [3](./Centro/Centro-3.pdf)
+  - [4](./Centro/Centro-4.pdf)
+  - [5](./Centro/Centro-5.pdf)
+  - [6](./Centro/Centro-6.pdf)
